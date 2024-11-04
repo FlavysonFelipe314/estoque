@@ -2,5 +2,5 @@
 
 <code>git clone https://github.com/FlavysonFelipe314/estoque.git</code><br>
 <code>cd estoque</code><br>
-<code>gcc -o estoque estoque.c</code><br>
+<code>gcc -o estoque main.c</code><br>
 <code>./estoque</code><br>
